@@ -34,11 +34,13 @@
     <orderEntry type="library" scope="PROVIDED" name="execjs (v1.4.0, RVM: ree-1.8.7-2012.02) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="factory_girl (v1.3.3, RVM: ree-1.8.7-2012.02) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="factory_girl_rails (v1.0, RVM: ree-1.8.7-2012.02) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="faker (v0.3.1, RVM: ree-1.8.7-2012.02) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="gravatar_image_tag (v1.0.0.pre2, RVM: ree-1.8.7-2012.02) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="hike (v1.2.1, RVM: ree-1.8.7-2012.02) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="i18n (v0.6.0, RVM: ree-1.8.7-2012.02) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="jquery-rails (v1.0.19, RVM: ree-1.8.7-2012.02) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="json (v1.7.3, RVM: ree-1.8.7-2012.02) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="libv8 (v3.3.10.4, RVM: ree-1.8.7-2012.02) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="mail (v2.3.3, RVM: ree-1.8.7-2012.02) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="mime-types (v1.18, RVM: ree-1.8.7-2012.02) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="multi_json (v1.2.0, RVM: ree-1.8.7-2012.02) [gem]" level="application" />
@@ -61,7 +63,7 @@
     <orderEntry type="library" scope="PROVIDED" name="sass (v3.1.19, RVM: ree-1.8.7-2012.02) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="sass-rails (v3.1.6, RVM: ree-1.8.7-2012.02) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="sprockets (v2.0.4, RVM: ree-1.8.7-2012.02) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="sqlite3 (v1.3.6, RVM: ree-1.8.7-2012.02) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="sqlite3 (v1.3.4, RVM: ree-1.8.7-2012.02) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="therubyracer (v0.10.1, RVM: ree-1.8.7-2012.02) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="thor (v0.14.6, RVM: ree-1.8.7-2012.02) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="tilt (v1.3.3, RVM: ree-1.8.7-2012.02) [gem]" level="application" />
@@ -69,6 +71,7 @@
     <orderEntry type="library" scope="PROVIDED" name="tzinfo (v0.3.33, RVM: ree-1.8.7-2012.02) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="uglifier (v1.2.4, RVM: ree-1.8.7-2012.02) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="webrat (v0.7.1, RVM: ree-1.8.7-2012.02) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="will_paginate (v3.0.pre2, RVM: ree-1.8.7-2012.02) [gem]" level="application" />
   </component>
   <component name="RModuleSettingsStorage">
     <LOAD_PATH number="0" />
